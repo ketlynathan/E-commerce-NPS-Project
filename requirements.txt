@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+streamlit
+requests
+faker
+ollama
+pandas
+plotly
