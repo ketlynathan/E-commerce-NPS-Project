@@ -169,9 +169,9 @@ Processa todas as avaliações pendentes usando Ollama.
 
 ### Categorias de Clientes
 
-- **🟢 Promotores (9-10)**: Clientes entusiastas que recomendam ativamente
-- **🟡 Neutros (7-8)**: Clientes satisfeitos mas não entusiastas
-- **🔴 Detratores (0-6)**: Clientes insatisfeitos que podem prejudicar a marca
+- **🟢 Promotores (8-10)**: Clientes entusiastas que recomendam ativamente
+- **🟡 Neutros (5-7)**: Clientes satisfeitos mas não entusiastas
+- **🔴 Detratores (0-4)**: Clientes insatisfeitos que podem prejudicar a marca
 
 ### Fórmula do NPS
 
