@@ -104,6 +104,7 @@ Em outro terminal:
 streamlit run frontend.py
 ```
 ![alt text](image-1.png)
+
 O dashboard abrirá automaticamente em: `http://localhost:8501`
 
 ## 📊 Como Usar
