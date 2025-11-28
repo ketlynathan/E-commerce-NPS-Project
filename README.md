@@ -103,6 +103,7 @@ Em outro terminal:
 ```bash
 streamlit run frontend.py
 ```
+![alt text](image.png)
 
 O dashboard abrirá automaticamente em: `http://localhost:8501`
 
